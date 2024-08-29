@@ -1,6 +1,6 @@
 public int add(int [] a ) {
 
-int val = 0 ; 
+int val = 2 ; 
 for(int i ; i < a.size() ; i++){
 val = val + a[i];
 }
